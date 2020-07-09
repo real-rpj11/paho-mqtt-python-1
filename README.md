@@ -24,3 +24,8 @@ Steps:
 
 8. Run the sample-mqtt.py code to test the environment
     Copy the Getting Started code from https://pypi.org/project/paho-mqtt/ to sample-mqtt.py
+
+
+Source:
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+https://pypi.org/project/paho-mqtt/
