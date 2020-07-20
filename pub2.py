@@ -1,7 +1,7 @@
 import paho.mqtt.client as mqtt
 import time
 
-topic = "junrey/pn/c1/kitchen/humidity"
+topic = "precy/pn/c1/kitchen/humidity"
 payload = "50%"
 
 def on_connect(client, userdata, flags, rc):
