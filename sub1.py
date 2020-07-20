@@ -1,7 +1,7 @@
 import paho.mqtt.client as mqtt
 
-# topic = "junrey/pn/c1/comlab/temperature"
-topic = "junrey/pn/c1/comlab/#"
+# topic = "precy/pn/c1/comlab/temperature"
+topic = "precy/pn/c1/comlab/#"
 
 def on_connect(client, userdata, flags, rc):
     print("Connected with result code "+str(rc))
