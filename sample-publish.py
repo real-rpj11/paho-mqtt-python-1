@@ -13,7 +13,7 @@ time.sleep(1)
 count = 0
 while True:
     client.loop()
-    client.publish("junrey/sample", count)
+    client.publish("precy/sample", count)
     print(count)
     time.sleep(1)
     count += 1
